@@ -1,4 +1,4 @@
-
+*.db
 .ipynb_checkpoints/(TEST)Dataset expl & preproc-checkpoint.ipynb
 .ipynb_checkpoints/Data Wrangling -checkpoint.ipynb
 .ipynb_checkpoints/Dataset Merge and Preprocessing -checkpoint.ipynb
